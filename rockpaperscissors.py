@@ -1,5 +1,8 @@
 """
-Learned about variables, dictionary, lists, concatenation and print with f
+Learned about variables, dictionary, lists, concatenation and print with f 
+if else 
+nested if else (elif)
+functions
 """
 
 import random
